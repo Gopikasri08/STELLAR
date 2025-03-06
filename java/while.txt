@@ -1,0 +1,6 @@
+while:
+multiple condition
+it is also a decision making statement like if statement
+initialization must be above while, increment must be within the block
+while loop is used for infinte loop/ for loop is used for finite loop also works for finite but it is difficult
+ctrl+c cancel

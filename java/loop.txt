@@ -1,0 +1,5 @@
+Loop:
+loop is used to execute set of statement repeatedly until the statement becomes false
+    for ,while -entry check
+    dowhile- exit check
+intialization, condition, increment/decrement
